@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <section>
+  <title>Carrinho De compra</title>
+  </section>
+</head>
+<body>
+
+  <h2>🧥 Produto: CAMISA PRETA ESTILOSA</h2>
+  <p>Preço: R$ 299,98</p>
+<form method="post" action="segundapagina do trabalho finalizado.html">
+  <label for="tamanho">Tamanho Selecionado:</label>
+  <select id="tamanho">
+    <option value="M">M</option>
+  </select>
+
+  <br><br>
+
+  <label for="pagamento">Forma de Pagamento:</label>
+  <select id="pagamento">
+    <option value="PIX">PIX</option>
+    <option value="Dinheiro">Dinheiro</option>
+    <option value="Cartão">Cartão (até 10x sem juros)</option>
+    <option value="Transferência">Transferência</option>
+  </select>
+
+  <br><br>
+  <input type="submit" value="Finalizar Compra">
+  </form>
+</body>
+</html>
